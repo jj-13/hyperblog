@@ -1,1 +1,2 @@
 informarcion del archivo creado
+info para el segundo commit
