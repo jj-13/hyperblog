@@ -2,4 +2,4 @@ informarcion del archivo creado
 info para el segundo commit
 info para el tercer commit
 info para el cuarto commit
-info para el quinto commit
+info para el quinto commit y sexto commit
