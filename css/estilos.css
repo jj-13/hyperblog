@@ -14,3 +14,11 @@ body{
     text-align: center;
     font-size: medium;
 }
+
+#footer{
+    background: #777;
+    color:white;
+    text-align:center;
+    padding:0.5em
+
+}
