@@ -8,3 +8,4 @@ def d1():
 
 for i in range(len(l1)):
     print(i)
+    print(i)
