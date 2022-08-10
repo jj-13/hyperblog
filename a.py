@@ -1,5 +1,5 @@
 lista = ['esto es un string']
-l1 = [p for p in lista]
+l1 = [p for p in lista if p != 's']
 
 def d1():
     print(lista[0][:1])
