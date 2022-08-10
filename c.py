@@ -10,3 +10,4 @@ def d1():
     print(l4[-1:])
     print(l4[-1])
     print(l4[-2])
+    print("segunda parte")
