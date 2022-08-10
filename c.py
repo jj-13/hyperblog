@@ -4,3 +4,8 @@ l4[3] = 100
 del l4[0] #instruccion del
 
 print(l4)
+print(l4[:1])
+print(l4[0])
+print(l4[-1:])
+print(l4[-1])
+print(l4[-2])

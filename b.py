@@ -16,3 +16,11 @@ v2 = splitstr('hello')
 print(v2)
 print(l2)
 print(sum)
+print('cambio 1')
+
+print('cmabio 2')
+
+"""
+esta parte se va a modificar
+"""
+
