@@ -1,6 +1,10 @@
 lista = ['esto es un string']
-l1 = [i for i in lista]
+l1 = [p for p in lista]
 
-print(lista[0][:1])
-print(lista[0][-1:])
-print(l1)
+def d1():
+    print(lista[0][:1])
+    print(lista[0][-1:])
+    print(l1)
+
+for i in range(len(l1)):
+    print(i)
