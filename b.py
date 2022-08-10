@@ -14,3 +14,4 @@ def splitstr(word):
 v2 = splitstr('hello')
 print(v2)
 print(l2)
+print(sum)
