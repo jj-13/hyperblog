@@ -4,6 +4,7 @@ l2 = [i for i in range(5)]
 sum = 0
 
 for i in l2:
+    print(i)
     sum += i
 
 def splitstr(word):
