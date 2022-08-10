@@ -1,5 +1,5 @@
 lista = ['esto es un string']
-l1 = [p for p in lista if p != 's' or p != 'e']
+l1 = [p for p in lista if p != 's' or p != 'e' or p != 'u']
 
 def d1():
     print(lista[0][:1])
