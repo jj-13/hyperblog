@@ -11,3 +11,4 @@ for i in range(len(l1)):
     print(i)
     print('3')
     print('4')
+    print('6')
