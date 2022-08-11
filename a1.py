@@ -11,6 +11,8 @@ def p2():
     print('2')
     print('a2')
 
+for j in range(10):
+    print(j)
 
 
 #Tersera Parte
