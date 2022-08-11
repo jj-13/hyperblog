@@ -1,5 +1,6 @@
 #Primera Parte 
-
+def p1():
+    print('1')
 
 
 
