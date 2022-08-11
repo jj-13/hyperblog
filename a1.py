@@ -5,7 +5,8 @@ def p1():
 
 
 #Segunda Parte
-
+def p2():
+    print('2')
 
 
 
