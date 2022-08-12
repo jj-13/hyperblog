@@ -3,6 +3,7 @@ def p1():
     print('1')
 
 for i in range(5):
+    print('1')
     print(i)
 
 
