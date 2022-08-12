@@ -19,3 +19,5 @@ for j in range(10):
 #Tersera Parte
 def p3():
     print('3')
+
+[y for y in range(5) if y // 2]
